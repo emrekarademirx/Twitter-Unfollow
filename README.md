@@ -3,7 +3,7 @@
 Bu uygulama, Twitter API kullanarak Twitter hesabınızdaki takipçileriniz arasındaki "takip etmeyenleri" takipten çıkmanıza olanak tanır.
 
 ## Gereksinimler
-- [Twitter API Keyleri]([https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-oauth-1-0a-access-tokens](https://github.com/emrekarademirx/Twitter-Unfollow/blob/main/Twitter%20Official%20Consumer%20Key.md))
+- [Twitter API Keyleri](https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-oauth-1-0a-access-tokens](https://github.com/emrekarademirx/Twitter-Unfollow/blob/main/Twitter%20Official%20Consumer%20Key.md)
 - [PHP](https://www.php.net/manual/en/install.php)
 - [Composer](https://getcomposer.org/download/)
 
